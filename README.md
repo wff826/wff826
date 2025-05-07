@@ -1,21 +1,29 @@
-<!-- 🎀 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=💻+AI+Developer;🎨+Hackathon+Enthusiast;🦅+Yonsei+University+Student" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Minjeong%20Kim's%20GitHub&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=40" />
 </p>
 
 ---
 
-<h1 align="center">🌸 Hi there! I'm Minjeong Kim (wff826) 🌸</h1>
-<h3 align="center">Civil & Environmental Engineering @ Yonsei University 💡</h3>
+<!-- 🎀 Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=🎨+Hackathon+Enthusiast;💻+AI+Developer;🦅+Yonsei+Univ" />
+</p>
 
 ---
 
 ### 🍓 About Me
 - 🏫 Studying **Civil & Environmental Engineering** at **Yonsei University**
-- 💡 Passionate about AI-based service development and UX-focused prototyping
-- 🛠️ Building a JWT + Kakao Login System
+- 💡 Passionate about AI-based service development
+- 🔐 Currently working on a [JWT + Kakao Login System](https://github.com/wff826/skyst)
 - 🏃‍♀️ Hackathon enthusiast: I turn ideas into working products — fast!
 - 💬 Always open to meaningful collaboration — let’s build something cool.
+
+---
+
+### 💡 **Extracurricular Activities**
+- 🏆 **Executive** at [Yonsei Computer Club](https://www.ycc.club/)
+- 🌐 **Representative** for [9oormthon Univ](https://9oormthon.university/) at Yonsei University  
+- 🧑‍💻 **Member** of [OUTTA](https://outta.ai/ko)
 
 ---
 
@@ -49,13 +57,14 @@
 ### 🍡 My Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-React-FFB6C1?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Python-FF69B4?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Spring Boot-FDB9C8?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Django-F88379?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Git-FD5DA8?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React-FFB6C1?style=for-the-badge&logo=react&logoColor=black" height="40px"/>
+  <img src="https://img.shields.io/badge/-JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=black" height="40px"/>
+  <img src="https://img.shields.io/badge/-Python-FF69B4?style=for-the-badge&logo=python&logoColor=white" height="40px"/>
+  <img src="https://img.shields.io/badge/-Spring%20Boot-FDB9C8?style=for-the-badge&logo=springboot&logoColor=white" height="40px"/>
+  <img src="https://img.shields.io/badge/-Django-F88379?style=for-the-badge&logo=django&logoColor=white" height="40px"/>
+  <img src="https://img.shields.io/badge/-Git-FD5DA8?style=for-the-badge&logo=git&logoColor=white" height="40px"/>
 </p>
+
 
 ---
 
