@@ -1,12 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=200&section=header&text=Minjeong%20Kim's%20GitHub&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=40" />
+  <img src="https://github.com/wff826/wff826/raw/main/minjeong_kim_github_glitter.PNG" width="60%" />
 </p>
-
----
 
 <!-- 🎀 Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=🎨+Hackathon+Enthusiast;💻+AI+Developer;🦅+Yonsei+Univ" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=🎨+Hackathon+Enthusiast;💻+AI+Developer;🦅+Yonsei+Univ" />
 </p>
 
 ---
