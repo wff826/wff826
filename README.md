@@ -38,33 +38,55 @@
 >
 > 🧩 Helped connect real-time user movement to smart, optimal path decisions
 
----
+<hr style="border: 0.5px solid #ffb6c1; margin: 10px 0;" />
 
 #### 🍑 2023 Channel Talk Hackathon
 > 🚌 Created a **commute alert service** for busy office workers  
 > 🧠 Used NAVER Maps + transport APIs  
 > 🏆 **Grand Prize Winner**
 
----
+<hr style="border: 0.5px solid #ffb6c1; margin: 10px 0;" />
 
 #### 🐰 2024 Yonsei–Korea Hackathon
 > 📝 Developed a **Mandarat-based To-Do web app**  
 > 🌸 Recognized for its intuitive and motivational UX  
 > 🥇 **1st Place Award**
 
+<hr style="border: 0.5px solid #ffb6c1; margin: 10px 0;" />
+
+#### 🍬 AI & IoT-based Health Monitoring System
+> ⌚ Real-time health monitoring with wearable devices  
+> 🤖 Automated alerts for anomalies and emergencies  
+
+<hr style="border: 0.5px solid #ffb6c1; margin: 10px 0;" />
+
+#### 🚌 Yonsei University Shuttle Bus PWA
+> 🏫 Progressive Web App for real-time shuttle schedules  
+> 🌐 Built with Next.js, TypeScript, and Tailwind CSS
+
 ---
 
 ### 🍡 My Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-React-FFB6C1?style=for-the-badge&logo=react&logoColor=black" height="40px"/>
-  <img src="https://img.shields.io/badge/-JavaScript-FFC0CB?style=for-the-badge&logo=javascript&logoColor=black" height="40px"/>
-  <img src="https://img.shields.io/badge/-Python-FF69B4?style=for-the-badge&logo=python&logoColor=white" height="40px"/>
-  <img src="https://img.shields.io/badge/-Spring%20Boot-FDB9C8?style=for-the-badge&logo=springboot&logoColor=white" height="40px"/>
-  <img src="https://img.shields.io/badge/-Django-F88379?style=for-the-badge&logo=django&logoColor=white" height="40px"/>
-  <img src="https://img.shields.io/badge/-Git-FD5DA8?style=for-the-badge&logo=git&logoColor=white" height="40px"/>
+#### ✨ Languages
+<p>
+  <img src="https://img.shields.io/badge/-JavaScript-ffafbd?style=for-the-badge&logo=javascript&logoColor=black" height="35px"/>
+  <img src="https://img.shields.io/badge/-Python-fbc2eb?style=for-the-badge&logo=python&logoColor=black" height="35px"/>
 </p>
 
+#### 🚀 Frameworks & Libraries
+<p>
+  <img src="https://img.shields.io/badge/-React-ff9a9e?style=for-the-badge&logo=react&logoColor=black" height="35px"/>
+  <img src="https://img.shields.io/badge/-Spring%20Boot-ffb6c1?style=for-the-badge&logo=springboot&logoColor=black" height="35px"/>
+  <img src="https://img.shields.io/badge/-Django-fbc2eb?style=for-the-badge&logo=django&logoColor=black" height="35px"/>
+  <img src="https://img.shields.io/badge/-PyTorch-ffafbd?style=for-the-badge&logo=pytorch&logoColor=black" height="35px"/>
+</p>
+
+#### 🔧 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/-Git-ff9a9e?style=for-the-badge&logo=git&logoColor=black" height="35px"/>
+  <img src="https://img.shields.io/badge/-Vercel-ffb6c1?style=for-the-badge&logo=vercel&logoColor=black" height="35px"/>
+</p>
 
 ---
 
