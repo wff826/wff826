@@ -38,27 +38,27 @@
 >
 > 🧩 Helped connect real-time user movement to smart, optimal path decisions
 
-<hr style="border: 0.5px solid #ffb6c1; margin: 10px 0;" />
+***
 
 #### 🍑 2023 Channel Talk Hackathon
 > 🚌 Created a **commute alert service** for busy office workers  
 > 🧠 Used NAVER Maps + transport APIs  
 > 🏆 **Grand Prize Winner**
 
-<hr style="border: 0.5px solid #ffb6c1; margin: 10px 0;" />
+***
 
 #### 🐰 2024 Yonsei–Korea Hackathon
 > 📝 Developed a **Mandarat-based To-Do web app**  
 > 🌸 Recognized for its intuitive and motivational UX  
 > 🥇 **1st Place Award**
 
-<hr style="border: 0.5px solid #ffb6c1; margin: 10px 0;" />
+***
 
 #### 🍬 AI & IoT-based Health Monitoring System
 > ⌚ Real-time health monitoring with wearable devices  
 > 🤖 Automated alerts for anomalies and emergencies  
 
-<hr style="border: 0.5px solid #ffb6c1; margin: 10px 0;" />
+***
 
 #### 🚌 Yonsei University Shuttle Bus PWA
 > 🏫 Progressive Web App for real-time shuttle schedules  
