@@ -9,8 +9,7 @@
 ---
 
 ### 👩‍🎓 About Me
-- 🎓 **Undergraduate @ Yonsei University**  
-  Majoring in **Civil & Environmental Engineering**
+- 🎓 **Undergraduate @ Yonsei University** Majoring in **Civil & Environmental Engineering**
 - 💡 Passionate about **AI-based service development** and **UX-focused prototyping**
 - 🛠️ Building a [JWT + Kakao Login System](https://github.com/wff826/skyst)
 - 🏃‍♀️ Hackathon enthusiast: I turn ideas into working products — fast!
