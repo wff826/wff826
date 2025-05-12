@@ -94,6 +94,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=wff826&show_icons=true&theme=radical" />
 </p>
 
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wff826&theme=juicyfresh&no-bg=true&no-frame=true&column=8&margin-w=5" 
+         style="filter: hue-rotate(300deg) drop-shadow(0 0 5px #FFB6C1);" />
+  </a>
+</div>
+
+
 ---
 
 ### 🌷 Let's Connect
