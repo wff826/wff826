@@ -106,7 +106,7 @@
 
 ### 🌷 Let's Connect
 
-- 📮 Email: `m2njeong826@yonsei.ac.kr`
+- 📮 Email: `minjeong.kim@yonsei.ac.kr`
 - 💼 Blog & Portfolio: Coming soon!
 - 🐣 Fun fact: I love pink stationery and Hello Kitty 💭
 
